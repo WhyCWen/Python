@@ -9,7 +9,3 @@ request = urllib.request.Request(url=url, data=data, headers=user_agent)
 respond = urllib.request.urlopen(request)
 content = respond.read().decode('utf-8')
 print(content)
-
-
-
-
