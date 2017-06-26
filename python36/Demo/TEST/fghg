@@ -1,0 +1,19 @@
+# print(9)
+#
+#
+# i = 10
+# while i > 0:
+#     i -= 1
+#     if i%2 ==1:
+#         continue
+#     elif i%2 == 0:
+#         print(i)
+#     else:
+#         break
+# print("end")
+#
+
+"""4
+ python 的函数 使用def 定义
+
+"""
